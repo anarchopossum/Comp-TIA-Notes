@@ -13,10 +13,10 @@
 | DHCP (Server)         | UDP  | 68     |
 | HTTPS                 | TCP  | 443    |
 | POP3                  | TCP  | 110    |
-| SNMP (queries)        | UDP  | 161    |
+| #SNMP (queries)       | UDP  | 161    |
 | SNMP (trap)           | UDP  | 162    |
-| SMB (Direct)          | TCP  | 445    |
+| #SMB (Direct)         | TCP  | 445    |
 | SMB (Nbname)          | UDP  | 137    |
 | SMB(nbsession)        | TCP  | 139    |
-| LDAP                  | TCP  | 389    |
+| #LDAP                 | TCP  | 389    |
 | RDP                   | TCP  | 3389   |
