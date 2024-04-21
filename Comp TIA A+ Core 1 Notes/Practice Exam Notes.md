@@ -6,7 +6,7 @@
 # Networking
 ## TCP/IP
 - enables communication between hosts on LAN
-### NetBT (NetBIOS through TCP/IP)
+### #NetBT (NetBIOS through TCP/IP)
 - Network Basic Input/Output
 - port 149 and 445
 - enables communication between computers
@@ -52,13 +52,13 @@
 - IMAP mostly focuses on Downloading Mail with above mentioned features
 
 # Mobile Phone Administration
-## MDM (Mobile Device Management)
+## #MDM (Mobile Device Management)
 - Provides Centralized administration of devices
 - Security Policies and procedures
 - Remote Management
 - Application management
 - Monitoring
-# MAM (Mobile App Management)
+# #MAM (Mobile App Management)
 - Apps can be installed though MDM, enterprise app store, manual install
 - configs for all devices
 - app monitoring and updates
