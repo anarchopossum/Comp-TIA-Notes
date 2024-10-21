@@ -1,6 +1,6 @@
 # Intro
 These are my Comptia notes, feel free to use them to study for your exams!
-At the moment I only have the A+ exam passed at the moment. I hope to keep updating my notes as I keep advancing in my career.
+At the moment I only have the A+ exam passed. I hope to keep updating my notes as I keep advancing in my career.
 
 I use [Obsidian](https://obsidian.md/) as my note taking software, although use any other markdown software of your choice.
 
